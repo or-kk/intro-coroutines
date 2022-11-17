@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-slf4j:1.5.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-slf4j/1.5.1/df3c9da192aa8c14da5f1b81e0c39e8fb646cc10/kotlinx-coroutines-slf4j-1.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-slf4j/1.5.1/8148be1a416f68de5006b6f423fd816667ee03ac/kotlinx-coroutines-slf4j-1.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
